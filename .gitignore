@@ -38,3 +38,6 @@ postgres-data/
 # E2E agent-flow run artifacts (local only — never commit)
 runs/
 .worktrees/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
